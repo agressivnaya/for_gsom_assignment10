@@ -1,0 +1,5 @@
+positive_numbers = [1, 3, 5, 7, 9, 11]
+negative_numbers = [-1, -2, -3, -4, -5]
+mixed_numbers = [100, -13, 34, 75, -53, 20]
+even_numbers = [2, 4, 6, 8, 10, 12]
+random_numbers = [456, 32, -120, 0, 233, -8, 19]
